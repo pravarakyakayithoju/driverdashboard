@@ -1,0 +1,5 @@
+Flask>=2.0
+flask-socketio
+eventlet
+# Production WSGI server (recommended for Render)
+gunicorn
